@@ -1,1 +1,3 @@
-The Android Live Recovery USB is a powerful tool designed for (Xiaomi) device users. This image includes essential features for (EDL) device recovery and management, making it an invaluable resource for anyone looking to de-brick their (Xiaomi) devices or perform advanced operations.
+The Android Live Recovery USB is a compact, bootable toolkit for safely de‑bricking and managing Xiaomi, Motorola, OnePlus, Samsung and other Android devices without modifying the host system.
+
+Optimized for EDL‑based recovery and bundled with tools for general maintenance, ROM flashing, and firmware restoration.
